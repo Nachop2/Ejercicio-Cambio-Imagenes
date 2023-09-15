@@ -1,0 +1,19 @@
+/* Default color, when the webpage is loaded */
+#textColor {
+    color: gray;
+}
+
+/* Centers everything */
+.center {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Letter styling */
+.lettering1{
+    font-size: 2em;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
